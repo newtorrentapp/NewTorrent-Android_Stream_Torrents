@@ -1,7 +1,7 @@
 # NewTorrent
 NewTorrent is the easiest way to search and stream torrents. Tell it what you want to watch, the app will search multiple different sources. Video from the Internet Archive, music from Creative Commons, or audiobooks from Librivox, play it right away with the built in Video Player. 
 
-![image]([https://github.com/newtorrentapp/NewTorrent/screens/0.png](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/0.png))
+![image](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/0.png))
 
 
 
