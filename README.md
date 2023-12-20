@@ -23,8 +23,8 @@ Downloading copyrighted content is not endorsed or encouraged by NewTorrent. We 
 
 With special thanks to the following services to which this project is built upon:
 
-VLC Media Player for the video player module
-LibreTorrent for providing the torrent engine
-TMDB for providing data scraping
-Bing Search for providing image data
+- VLC Media Player for the video player module
+- LibreTorrent for providing the torrent engine
+- TMDB for providing data scraping
+- Bing Search for providing image data
 
