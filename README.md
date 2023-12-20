@@ -3,8 +3,7 @@
 ![image](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/banner.jpg)
 
 
-NewTorrent is the easiest way to search and stream torrents. Tell it what you want to watch, the app will search multiple different sources. Video from the Internet Archive, music from Creative Commons, or audiobooks from Librivox, play it right away with the built in Video Player. 
-
+NewTorrent is the easiest way to search and stream torrents. Tell it what you want to watch, the app will search multiple different sources such as: The Internet Archive, Creative Commons and Librivox. Play your video right away with the built-in Video Player. 
 
 # Download Releases
 
@@ -15,7 +14,6 @@ This is an early access preview for monitoring performance. Please email if you 
 ![image](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/ScreenShotBanner.jpg)
 
 # How Does It Work?
-
 
 We use search engines and TMDB to find relevant images and metadata about the content you are searching to help display and organise your torrents in a simple, easy to view, interface. 
 
