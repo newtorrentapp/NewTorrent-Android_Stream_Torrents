@@ -3,6 +3,7 @@ NewTorrent is the easiest way to search and stream torrents. Tell it what you wa
 
 ![image](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/0.png))
 
+<img src="https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/0.png" width="100">
 
 
 We use search engines and TMDB to find relevant images and metadata about the content you are searching to help display and organise your torrents in a simple, easy to view, interface. 
