@@ -1,11 +1,20 @@
-# NewTorrent
+# NewTorrent: Stream on demand
 
 ![image](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/banner.jpg)
 
 
 NewTorrent is the easiest way to search and stream torrents. Tell it what you want to watch, the app will search multiple different sources. Video from the Internet Archive, music from Creative Commons, or audiobooks from Librivox, play it right away with the built in Video Player. 
 
+
+# Download Releases
+
+[Version 1.0 Alpha](https://drive.google.com/file/d/1Mup0DiGVgVZiCqeRnn1I2nMbFChfI2PW/view?usp=drive_link) 
+
+This is an early access preview for monitoring performance. Please email if you run into any difficulties. 
+
 ![image](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/ScreenShotBanner.jpg)
+
+# How Does It Work?
 
 
 We use search engines and TMDB to find relevant images and metadata about the content you are searching to help display and organise your torrents in a simple, easy to view, interface. 
@@ -15,6 +24,8 @@ You can watch on your device, Screenshare or Cast to your TV via Chromecast.
 The best part is, once you have viewed the content, the app will automatically share the file with one other person, then it will be deleted for you; so you don't have to manage storage space on your device. 
 
 You may also use the integrated search to download other types of torrent, e.g. Software. 
+
+
 
 
 
