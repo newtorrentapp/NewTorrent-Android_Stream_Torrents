@@ -7,7 +7,7 @@ NewTorrent is the easiest way to search and stream torrents. Tell it what you wa
 
 # Download Releases
 
-[Version 1.0.1 Alpha](https://drive.google.com/file/d/1m6KurMjPcGwKsbmJtH-qmHMVBEpTuTKU/view?usp=sharing) 
+[Version 1.0.2 Alpha](https://drive.google.com/drive/folders/1CqDNL93uQXaUyqxtavxNzI29fWxN-k9I?usp=sharing) 
 
 This is an early access preview for monitoring performance. Please email if you run into any difficulties. 
 
