@@ -1,11 +1,11 @@
 # NewTorrent
 
-![image](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/banner.jpg))
+![image](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/banner.jpg)
 
 
 NewTorrent is the easiest way to search and stream torrents. Tell it what you want to watch, the app will search multiple different sources. Video from the Internet Archive, music from Creative Commons, or audiobooks from Librivox, play it right away with the built in Video Player. 
 
-![image](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/ScreenShotBanner.jpg))
+![image](https://raw.githubusercontent.com/newtorrentapp/NewTorrent/main/screens/ScreenShotBanner.jpg)
 
 
 We use search engines and TMDB to find relevant images and metadata about the content you are searching to help display and organise your torrents in a simple, easy to view, interface. 
@@ -27,9 +27,4 @@ VLC Media Player for the video player module
 LibreTorrent for providing the torrent engine
 TMDB for providing data scraping
 Bing Search for providing image data
-
- 
-![image](https://github.com/newtorrentapp/NewTorrent/assets/152722459/6446e1dc-66e8-4249-8b2a-03c6e32e2f5e)
-
-
 
