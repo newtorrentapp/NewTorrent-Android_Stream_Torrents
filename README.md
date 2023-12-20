@@ -1,6 +1,10 @@
 # NewTorrent
 NewTorrent is the easiest way to search and stream torrents. Tell it what you want to watch, the app will search multiple different sources. Video from the Internet Archive, music from Creative Commons, or audiobooks from Librivox, play it right away with the built in Video Player. 
 
+![image](https://github.com/newtorrentapp/NewTorrent/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%200.png)
+
+
+
 We use search engines and TMDB to find relevant images and metadata about the content you are searching to help display and organise your torrents in a simple, easy to view, interface. 
 
 You can watch on your device, Screenshare or Cast to your TV via Chromecast. 
