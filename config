@@ -1,4 +1,5 @@
 {
 "latest_version_android" : 3.4,
-"update_url_android" : "https://play.google.com/store/apps/details?id=com.utorrent.client&hl=en&gl=US&pli=1"
+"update_url_android" : "https://play.google.com/store/apps/details?id=com.utorrent.client&hl=en&gl=US&pli=1",
+"share_url" : "https://github.com/newtorrentapp/NewTorrent"
 }
